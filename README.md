@@ -1,0 +1,2 @@
+# Adobe_Brackets
+Brackets is an open-source editor written in HTML, CSS, and JavaScript with a primary focus on web development.[5] It was created by Adobe Systems, licensed under the MIT License, and is currently maintained on GitHub by Adobe and other open-sourced developers. Brackets is available for cross-platform download on Mac, Windows, and is compatible with most linux distros. The main purpose of brackets is it's live html, css and js editing functionality.
